@@ -1,0 +1,11 @@
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\bin\Debug\BikeRental.dll
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\bin\Debug\BikeRental.pdb
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.csprojAssemblyReference.cache
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.csproj.CoreCompileInputs.cache
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.dll
+D:\paula\Trabajo\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.pdb
+D:\Escritorio\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.csprojResolveAssemblyReference.cache
+D:\Escritorio\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.dll
+D:\Escritorio\TestIntiveFdv\BikeRental\BikeRental\obj\Debug\BikeRental.pdb
+D:\Escritorio\TestIntiveFdv\BikeRental\BikeRental\bin\Debug\BikeRental.dll
+D:\Escritorio\TestIntiveFdv\BikeRental\BikeRental\bin\Debug\BikeRental.pdb
