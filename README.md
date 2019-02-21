@@ -1,6 +1,6 @@
 BikeRental develop in Visual Studio Community 2017 and Visual Studio Professional 2015
 
-BikeRental is a.NET Framework 4.6.1 class library project representing a bike rental model.
+BikeRental is a .NET Framework 4.6.1 class library project representing a bike rental model.
 It is divided in the DAL clases consisting in Entitys for database representation and Dao class for Rental Types that are held in memory.
 
 And the BLL clases consisting on the bussiness logic for the rentals.
