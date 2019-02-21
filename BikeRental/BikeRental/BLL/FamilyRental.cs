@@ -30,7 +30,7 @@ namespace BikeRental.BLL
         {
             if (rental.RentalEntity.NumberOfBikes + this.NumberOfBikes > 5)
             {
-                throw new ApplicationException("Bikes's quantity not valid por this type of rental");
+                throw new ApplicationException("Bikes's quantity not valid for this type of rental");
             }
             else
             {
@@ -42,7 +42,6 @@ namespace BikeRental.BLL
         /// <summary>
         /// Family rent implementation, applys a discount to the total price of all rents
         /// </summary>
-        /// <returns></returns>
         public override decimal Rent()
         {
             if (this.NumberOfBikes < 3)
